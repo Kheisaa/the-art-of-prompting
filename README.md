@@ -1,5 +1,8 @@
 # THE ART OF PROMPT AI
-## Project I_AAI
+
+## Project I
+
+## IBM Advance AI
 
 ## Author : Cognitive Class
 
